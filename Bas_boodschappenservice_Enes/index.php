@@ -59,7 +59,7 @@ body {
 <div class="center">
     <img src="img/bas_logo.png" alt="Bas logo">
     <h1>Boodschappen service</h1>
-    <h1>GitHub link: <a href=""></a></h1>
+    <h1><a href="https://github.com/EXEcode123/bas_boodschappenService.git">GitHub link:</a></h1>
 </div>
 
 </body>
